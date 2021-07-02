@@ -1,1 +1,7 @@
 mobilechelonian
+numpy
+matplotlib
+IPython
+ipywidgets
+turtle
+sklearn
